@@ -31,8 +31,8 @@ Download/clone the project and run it with python.
 $ python place_viewer.py
 ```
 
-Requirements: **Python 3.6 or higher**\
-Packages:
+Python version: **Python 3.6 or higher**\
+Package requirements:
 - pygame
 
 (*check requirements.txt for details*)
