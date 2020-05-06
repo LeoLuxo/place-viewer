@@ -43,7 +43,7 @@ $ pip install -r requirements.txt
 
 #### On first run:
 
-First time you run the program, it will pre-generate an image cache from the full data. This process can take a couple of minutes.
+First time you run the program, it will unzip *full_data.zip*, and pre-generate an image cache from the full data. This process can take a couple of minutes.
 
 If you ever wish to regenerate the cache, use the *gen* arg. (This will fully delete the old cache)
 ```console
