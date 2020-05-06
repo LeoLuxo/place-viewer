@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+.venv/
+.local/
+
+img_cache/
+full_data.txt
