@@ -45,7 +45,7 @@ display.set_caption("r/place viewer")
 display.set_icon(pygame.image.load("assets/place.png"))
 clock = pygame.time.Clock()
 
-font = pygame.freetype.Font("assets/PrStart.ttf", 24)
+font = pygame.freetype.Font("assets/PressStart2P.ttf", 24)
 
 screen.fill((200, 200, 200))
 font.render_to(screen, (10, 10), "Loading...", (0, 0, 0))
